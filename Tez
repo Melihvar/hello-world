@@ -1,3 +1,9 @@
 25.08.2016 /
 
-4 adet bobin simulasyonu yapıldı , 3 tanesininde data toplandı 
+4 adet bobin simulasyonu yapıldı , 3 tanesininde datası toplandı .
+Yapılan son simulasyon Emek Elektriğin şu anki kullandığı tasarım , patenti Belçikadan alınmış , ilgili belge bulmaya çalışacağım.
+İlk 3 simulasyon basit tasarımlardı , Belçikanın 'kini gördükten sonra geliştirebilmek için benzer mantıkta yeni bir tasarım yapmaya basladım.
+Belçika Tasarımı 2-2-2-1-2-2-2-1 şeklinde merdiven tarzı dizilim kullanmış , orta kısımda alan dağılımı oldukça basarılı fakat uç ksımdaki yoğunlasma iyileştirilebilir.
+Not: İzolasyon yüksekliğini ihmal eden bir mantıkla hesap yapıldığında 7-7-7-4-7-7-7-4 daha mantıklı
+Not2: Kademe sayısı arttıkça iyileşme bariz fakat bu seferde işçilik artıyor , kesişim noktası bulunmalı.
+
